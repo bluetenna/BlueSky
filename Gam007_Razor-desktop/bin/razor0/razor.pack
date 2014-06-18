@@ -1,0 +1,26 @@
+
+razor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airforce
+  rotate: false
+  xy: 239, 67
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+archer
+  rotate: false
+  xy: 239, 5
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 2
+  size: 235, 224
+  orig: 235, 224
+  offset: 0, 0
+  index: -1
